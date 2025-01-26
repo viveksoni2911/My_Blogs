@@ -3,8 +3,8 @@ title: "Networking in DevOps: A Comprehensive Guide 🌐🚀"
 datePublished: Sun Jan 26 2025 12:16:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm6dl2tev000509l2fqdogq2z
 slug: networking-in-devops-a-comprehensive-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737893542806/b809b1e3-edb2-4712-8a51-d58b8d74bc1f.webp
-tags: devops, networking, 90daysofdevops, tws
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737895926571/2704a379-c17d-472f-8cdf-a627e6142469.webp
+tags: devops, networking, 90daysofdevops, trainwithshubham, tws
 
 ---
 
